@@ -1,0 +1,4 @@
+what is the point of creating a constructor in an abstract class?
+  a common constructor for all child to use.
+  make parent self-contained: take care of my onw responsibility. Init its own property and the child can use.
+Abstrict class can have non-abstrat methods
